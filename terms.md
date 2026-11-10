@@ -44,4 +44,4 @@ To the maximum extent permitted by applicable law, FinSync and its developers sh
 We reserve the right to modify or update these Terms of Service at any time. Continued use of the App following any modifications constitutes your acceptance of the revised Terms.
 
 ## 10. Contact Us
-If you have any questions or concerns regarding these Terms of Service, please contact us via our official support channels or repository.
+If you have any questions or concerns regarding these Terms of Service, please contact us via our official support channels or repository. Email id: caricaturedlampoon@gmail.com
