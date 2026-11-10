@@ -37,3 +37,5 @@ FinSync is an offline-first personal finance and investment tracker designed wit
 
 ## 8. Contact Us
 - If you have any questions or concerns regarding this Privacy Policy or your data privacy, please contact us through our official support channels. Email:caricaturedlampoon@gmail.com
+#  Deletion of App Data from Google Drive
+-Because our app operates entirely offline and stores data locally on your device, we do not collect or store user accounts on external servers. To delete your app data, simply uninstall the app or clear its local storage. To disconnect Google Drive access, revoke permissions from your Google Account security settings and delete the backups from drive.
