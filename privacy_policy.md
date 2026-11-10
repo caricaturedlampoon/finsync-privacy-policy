@@ -1,3 +1,8 @@
+YAML
+---
+layout: default
+title: Privacy Policy
+---
 # Privacy Policy for FinSync
 
 **Effective Date:** October 2024  
