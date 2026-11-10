@@ -1,6 +1,6 @@
 # Terms of Service for FinSync
 
-**Effective Date:** March 2026  
+**Effective Date:**  11 Nov 2026  
 **Application Name:** FinSync  
 **Developer / Publisher:** FinSync Team  
 
@@ -20,10 +20,10 @@ FinSync is an offline-first personal finance and investment management applicati
 ## 3. Privacy & Offline-First Data Storage
 * **Local-First Architecture:** FinSync stores your financial records primarily on your local device. We do not operate proprietary servers that store your raw financial transactions, bank balances, or portfolio holdings.
 * **Optional Cloud Sync & Backups:** When you sign in with Google or email, your identity is used solely to authenticate encrypted cloud backups (`.finsync.enc`) uploaded to your personal Google Drive or authenticated Firebase instance. 
-* **End-to-End Encryption:** Cloud backups are secured using client-side AES-256-GCM encryption with PBKDF2 key derivation. Your encryption password is never transmitted to or stored on any remote server. **If you lose your encryption password, your encrypted backup cannot be recovered by us.**
+* **End-to-End Encryption:** Cloud backups are secured using client-side AES-256-GCM encryption with PBKDF2 key derivation. Your encryption password is never transmitted to or stored on any remote server.
 
 ## 4. User Accounts & Responsibilities
-* You may sign in freely using Google Sign-In or verified email credentials to link your identity for cross-device synchronization and license entitlement recovery.
+* You may sign in freely using Google Sign-In to link your identity for cross-device synchronization and license entitlement recovery.
 * You are solely responsible for maintaining the confidentiality of your account credentials, local device lock PIN, and backup encryption passphrases.
 
 ## 5. FinSync Pro & Google Play Purchases
