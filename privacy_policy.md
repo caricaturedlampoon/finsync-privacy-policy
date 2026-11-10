@@ -31,4 +31,4 @@ FinSync is an offline-first personal finance and investment tracker designed wit
 - We may update this Privacy Policy from time to time. Any changes will be posted within the application or repository.
 
 ## 8. Contact Us
-- If you have any questions or concerns regarding this Privacy Policy or your data privacy, please contact us through our official support channels.
+- If you have any questions or concerns regarding this Privacy Policy or your data privacy, please contact us through our official support channels. Email:caricaturedlampoon@gmail.com
