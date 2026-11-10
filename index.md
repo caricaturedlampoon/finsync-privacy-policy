@@ -5,7 +5,7 @@ title: Privacy Policy
 ---
 # Privacy Policy for FinSync
 
-**Effective Date:** October 2024  
+**Effective Date:** 11 Nov 2026 
 **App Name:** FinSync ("Log Split Track Analyse Grow")  
 **Developer / Entity:** FinSync Personal Finance Solutions  
 
