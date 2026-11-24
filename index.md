@@ -1,14 +1,14 @@
-# Privacy Policy for FinSync
+# Privacy Policy for FinSync Ji
 
 **Effective Date:** 24 November 2026  
-**App Name:** FinSync ("Log Split Track Analyse Grow")  
+**App Name:** FinSync Ji ("Log Split Track Analyse Grow")  
 **Developer / Entity:** FinSync Personal Finance Solutions
 
 ---
 
 ## 1. Overview
 
-FinSync is a local-first personal finance, investment tracking, and group expense management application designed with privacy, security, and user control at its core.
+FinSync Ji is a local-first personal finance, investment tracking, and group expense management application designed with privacy, security, and user control at its core.
 
 FinSync allows users to manage their personal finances independently while offering optional cloud-based synchronization for collaborative Group Expenses.
 
@@ -124,7 +124,7 @@ FinSync cannot control information that authorized group members independently c
 
 ## 5. Authentication & Account Information
 
-FinSync uses Google Sign-In and Firebase Authentication to support authenticated functionality, including multi-user Group Expenses.
+FinSync Ji uses Google Sign-In and Firebase Authentication to support authenticated functionality, including multi-user Group Expenses.
 
 Depending on the features used, the following information may be processed:
 
@@ -143,7 +143,7 @@ This information is used for:
 - Association of cloud records with authenticated users.
 - Account management and security.
 
-FinSync does not directly collect or store your Google account password.
+FinSync Ji does not directly collect or store your Google account password.
 
 Google Sign-In is not required for core offline personal finance functionality, but may be necessary for cloud-enabled features.
 
@@ -151,37 +151,37 @@ Google Sign-In is not required for core offline personal finance functionality, 
 
 ### 6.1 Personal Google Drive Backup
 
-FinSync offers an optional cloud backup feature that allows users to store encrypted financial backup files (`.finsync.enc`) directly in their personal Google Drive accounts.
+FinSync Ji offers an optional cloud backup feature that allows users to store encrypted financial backup files (`.finsync.enc`) directly in their personal Google Drive accounts.
 
 Google Drive backups are separate from Firebase-based Group Expenses synchronization.
 
 ### 6.2 Google Drive Access Limitations
 
-When connecting Google Drive, FinSync requests the following limited permission:
+When connecting Google Drive, FinSync Ji requests the following limited permission:
 
 `https://www.googleapis.com/auth/drive.file`
 
-This permission limits access to files created through FinSync or explicitly made available to FinSync by the user.
+This permission limits access to files created through FinSync Ji or explicitly made available to FinSync Ji by the user.
 
-FinSync does not request unrestricted access to the contents of your Google Drive.
+FinSync Ji does not request unrestricted access to the contents of your Google Drive.
 
 ### 6.3 Backup Encryption
 
 Financial backup files are encrypted on the user's device using AES-256 encryption with PBKDF2-based key derivation before being uploaded to Google Drive.
 
-FinSync does not retain the user's backup decryption password or encryption key on developer-managed cloud servers.
+FinSync Ji does not retain the user's backup decryption password or encryption key on developer-managed cloud servers.
 
 Users are responsible for securely retaining their backup credentials. Losing these credentials may prevent recovery of encrypted backups.
 
 ### 6.4 Google API Limited Use
 
-FinSync's use and transfer of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.
+FinSync Ji's use and transfer of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.
 
 Google Drive information is used only to provide and maintain the backup and restoration functionality requested by the user.
 
 ## 7. Data Security
 
-FinSync uses technical and organizational safeguards designed to protect user information against unauthorized access, modification, disclosure, and loss.
+FinSync Ji uses technical and organizational safeguards designed to protect user information against unauthorized access, modification, disclosure, and loss.
 
 These safeguards include, where applicable:
 
@@ -196,7 +196,7 @@ These safeguards include, where applicable:
 - Transaction integrity and conflict-handling mechanisms.
 - Controlled group invitation and membership processes.
 
-FinSync also provides local device security features, including:
+FinSync Ji also provides local device security features, including:
 
 - Application Lock using a four-digit PIN.
 - Biometric authentication using supported fingerprint or facial authentication mechanisms.
@@ -213,7 +213,7 @@ Although reasonable safeguards are implemented, no electronic storage or transmi
 
 ## 8. Third-Party Services
 
-FinSync uses third-party services to provide authentication, cloud synchronization, and optional backup functionality.
+FinSync Ji uses third-party services to provide authentication, cloud synchronization, and optional backup functionality.
 
 These services include:
 
@@ -241,11 +241,11 @@ Users may review the following:
 - Firebase Privacy and Security: https://firebase.google.com/support/privacy
 - Google API Services User Data Policy: https://developers.google.com/terms/api-services-user-data-policy
 
-FinSync does not sell or rent personal or financial information to advertisers, data brokers, or other third parties.
+FinSync Ji does not sell or rent personal or financial information to advertisers, data brokers, or other third parties.
 
 ## 9. How We Use Information
 
-Information processed through FinSync is used for purposes including:
+Information processed through FinSync Ji is used for purposes including:
 
 - Providing personal finance management functionality.
 - Authenticating users.
@@ -259,7 +259,7 @@ Information processed through FinSync is used for purposes including:
 - Resolving technical issues and responding to support requests.
 - Complying with applicable legal obligations.
 
-FinSync does not use personal financial information for targeted advertising or the sale of user profiles.
+FinSync Ji does not use personal financial information for targeted advertising or the sale of user profiles.
 
 ## 10. Data Retention
 
@@ -285,19 +285,19 @@ Cloud data is subject to applicable deletion requests, retention requirements, a
 
 Users may remove locally stored financial information by:
 
-- Deleting records within FinSync.
-- Clearing FinSync's application storage through device settings.
+- Deleting records within FinSync Ji.
+- Clearing FinSync Ji's application storage through device settings.
 - Uninstalling the application.
 
 Users should ensure that any desired backups are created before deleting their local data.
 
-Clearing application storage or uninstalling FinSync does not automatically delete Google Drive backups, Firebase account information, or synchronized group records.
+Clearing application storage or uninstalling FinSync Ji does not automatically delete Google Drive backups, Firebase account information, or synchronized group records.
 
 ### 11.2 Deleting Google Drive Backups
 
 Users may delete their encrypted backup files directly from their personal Google Drive accounts.
 
-To revoke FinSync's access to Google Drive, users may manage connected application permissions through their Google Account security settings:
+To revoke FinSync Ji's access to Google Drive, users may manage connected application permissions through their Google Account security settings:
 
 https://myaccount.google.com/connections
 
@@ -313,13 +313,13 @@ Where shared records must legitimately be retained, personal identifiers should 
 
 ### 11.4 Requesting Account & Cloud Data Deletion
 
-Users may request deletion of their FinSync account and associated personal cloud data by contacting:
+Users may request deletion of their FinSync Ji account and associated personal cloud data by contacting:
 
 **Email:** caricaturedlampoon@gmail.com
 
-**Subject:** FinSync Account and Data Deletion Request
+**Subject:** FinSync Ji Account and Data Deletion Request
 
-Users should provide the email address associated with their FinSync account to assist with identity verification.
+Users should provide the email address associated with their FinSync Ji account to assist with identity verification.
 
 Account deletion requests will be processed subject to identity verification and applicable legal requirements.
 
@@ -327,7 +327,7 @@ Where applicable, deletion will cover associated authentication records, persona
 
 Users will be informed of any applicable retention exceptions.
 
-Deleting a FinSync account does not delete the user's Google account or independently stored Google Drive backups.
+Deleting a FinSync Ji account does not delete the user's Google account or independently stored Google Drive backups.
 
 ## 12. User Rights & Controls
 
@@ -336,17 +336,17 @@ Depending on applicable laws and the features used, users may request to:
 - Access their personal information.
 - Correct inaccurate personal information.
 - Delete their account and associated personal information.
-- Withdraw permissions granted to FinSync.
+- Withdraw permissions granted to FinSync Ji.
 - Disconnect Google Drive integration.
 - Stop participating in cloud-synchronized groups.
 - Export or manage their locally stored financial records.
 - Raise concerns regarding the processing of their personal information.
 
-Users may contact FinSync through the support email provided in this policy to exercise applicable rights.
+Users may contact FinSync Ji through the support email provided in this policy to exercise applicable rights.
 
 ## 13. Cloud Processing & International Data Transfers
 
-FinSync uses Google-operated cloud infrastructure for authentication and synchronized Group Expenses.
+FinSync Ji uses Google-operated cloud infrastructure for authentication and synchronized Group Expenses.
 
 Depending on service configurations and Google infrastructure, information may be processed or stored in countries other than the user's country of residence.
 
@@ -354,7 +354,7 @@ Such processing is subject to applicable privacy laws and the safeguards provide
 
 ## 14. Changes to This Privacy Policy
 
-FinSync may update this Privacy Policy from time to time to reflect changes in application features, data processing practices, security measures, or applicable legal requirements.
+FinSync Ji may update this Privacy Policy from time to time to reflect changes in application features, data processing practices, security measures, or applicable legal requirements.
 
 Updated versions will be made available through the application, official privacy policy page, or associated repository.
 
@@ -364,9 +364,9 @@ The effective date at the beginning of this policy indicates when the latest ver
 
 For questions, concerns, account deletion requests, or other matters relating to this Privacy Policy, please contact:
 
-**Developer / Entity:** FinSync Personal Finance Solutions
+**Developer / Entity:** FinSync Ji Personal Finance Solutions
 
-**Application:** FinSync — Log Split Track Analyse Grow
+**Application:** FinSync Ji — Log Split Track Analyse Grow
 
 **Support Email:** [caricaturedlampoon@gmail.com](mailto:caricaturedlampoon@gmail.com)
 
@@ -374,4 +374,4 @@ For questions, concerns, account deletion requests, or other matters relating to
 
 **Last Updated:** 24 November 2026
 
-**FinSync Personal Finance Solutions**
+**FinSync Ji Personal Finance Solutions**
